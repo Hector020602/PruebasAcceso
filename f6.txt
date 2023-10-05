@@ -1,0 +1,3 @@
+Hola.Que tal?
+8.25
+El numero 20 en hexadecimal és 14
